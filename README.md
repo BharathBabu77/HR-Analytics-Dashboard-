@@ -16,7 +16,7 @@ Attrition patterns based on age group and gender
 Installation: To use the HR Analytics Dashboard:
 
 Download and install Tableau software.
-Open the provided Tableau workbook file
+Open the provided [Tableau workbook file](https://drive.google.com/drive/folders/10lcUDt8R3jA9TWP9OG1yCJfckbJTe4F1)
 Interact with the dashboard to explore the data insights.
 
 Usage: Explore the HR Analytics Dashboard to:
@@ -25,4 +25,4 @@ Understand employee count trends.
 Analyze attrition rates across departments.
 Evaluate the impact of education on attrition.
 Review job satisfaction levels.
-Identify attrition patterns by age group and gender.
+Identify attrition patterns by age group and gender. 
